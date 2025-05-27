@@ -10,7 +10,7 @@ This CV highlights my background in software development, app and web projects, 
 
 Click the button below to directly view the compiled PDF version of the CV:
 
-[![View CV](Software_Engineeer_CV.pdf)](./Software_Engineer_CV.pdf)
+[![View CV](https://img.shields.io/badge/View-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Software_Engineer_CV.pdf)
 
 ---
 
